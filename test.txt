@@ -1,0 +1,1 @@
+This is sampe text file for git demo
